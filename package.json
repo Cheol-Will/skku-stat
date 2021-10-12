@@ -1,0 +1,22 @@
+{
+  "name": "skku-stat",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cheol-Will/skku-stat.git"
+  },
+  "bin": {
+    "stat": "./main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cheol-Will/skku-stat/issues"
+  },
+  "homepage": "https://github.com/Cheol-Will/skku-stat#readme"
+}
